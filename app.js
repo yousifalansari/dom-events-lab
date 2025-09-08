@@ -31,7 +31,7 @@ buttons.forEach(function(button) {
   });
 });
 
-/*-------------------------------- Functions --------------------------------*/
+/*------------------------------- Functions --------------------------------*/
 
 function numberHandling(value) {
   if (!isEnteringSecond) {
