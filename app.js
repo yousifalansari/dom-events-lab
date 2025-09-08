@@ -10,7 +10,7 @@ let secondNumber = '';
 let operator = '';
 let isEnteringSecond = false;
 
-/*------------------------ Cached Element References ------------------------*/
+/*---------------------- Cached Element References ------------------------*/
 
 const displayEl = document.querySelector(DISPLAY_SELECTOR);
 const buttons = document.querySelectorAll(BUTTON_SELECTOR);
